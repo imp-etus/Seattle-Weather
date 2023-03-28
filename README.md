@@ -7,3 +7,6 @@ Using daily precipitation measured in Seattle and St. Louis, this project aims t
 The NOAA Climate Data can be found [here](https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND). Raw link: <https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND>
 
 More specifically, Seattle's data comes from the Boeing Field location, and St. Louis's data currently (as of 3/27) comes from the aggregate of all climate stations in St. Louis.
+
+The specific data sets used were sourced from the Seattle U Data 3320 Github repository, which can be found (here)[https://github.com/brian-fischer/DATA-3320/tree/main/weather].
+
