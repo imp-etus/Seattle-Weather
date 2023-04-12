@@ -16,6 +16,10 @@ Data was prepared by normalizing date/time records. However, missing values were
 
 The clean data file is df_tidy.csv. However, monthly/yearly data was also included. `true_monthly_data.csv` refers to the fact that those values were taken as the aggregate of *all* years, rather than just a single year. All other csv's are pretty self-explanatory, I think.
 
+The data preparation notebook is `Data Preparation.ipynb`.
+
 ## Analysis
 
 The clean data files were taken & then converted to graph format with precipitation plotted versus time. The file 'Data Analysis.ipynb' does this preparation. df_monthly and df_yearly were converted directly, but df_yearly was grouped by year to let the graph look like a timeline rather than comparing months to each other, as that would provide a more human-readable result. df_monthly_max was used to contrast with the averages, as "which ity gets the heaviest rain day" can also be relevant.
+
+The analysis notebook is `Data Analysis.ipynb`.
