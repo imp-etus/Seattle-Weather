@@ -1,8 +1,13 @@
 # DATA 3320, Project 1: Quantifying Rain in Seattle and St. Louis
-## Overview
+## Description
+### Overview / Methods
 This project aims to answer the question: Does it rain more in Seattle, WA, or St. Louis, MO? 
 
-Using daily precipitation measured in Seattle and St. Louis, this project aims to quantify the rain in each city between January 1, 2017 and December 31, 2022, and then present that using graphs and tables where necessary.
+Using daily precipitation measured in Seattle and St. Louis, this project aims to quantify the rain in each city between January 1, 2017 and December 31, 2022, and then present that using graphs and tables where necessary. Basic bar charts were used to quantify rain, but more details are available in the Data Analysis section.
+
+### Conclusion
+
+In general, it rains more in St. Louis than Seattle. Seattle has more rainy winters, while St. Louis has more rain in spring and summer. For more details, see the Conclusion pdf.
 
 ## Requirements
 
